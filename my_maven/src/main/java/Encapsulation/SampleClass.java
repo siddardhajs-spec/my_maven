@@ -7,6 +7,7 @@ public class SampleClass {
 		EncapsulationSample obj=new EncapsulationSample();
 		obj.setter("DEEPAK",3000);
 		obj.getter();
+		System.out.println("Git Update");
 		
 
 	}
